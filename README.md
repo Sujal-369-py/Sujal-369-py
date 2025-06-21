@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://chat.openai.com/mnt/data/A_banner_for_Buddy_features_a_dark_background_that.png" alt="Banner" />
-</p>
-
 <h1 align="center">They said "code is just 1s and 0s" — I turned it into purpose. I'm Sujal.</h1>
 <h3 align="center">I build, break, and train logic to evolve ⚡</h3>
 
@@ -13,10 +9,16 @@
 
 ---
 
-### ⚙️ Animated Tech Stack
+### ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,scikit-learn,numpy,pandas,git,github" />
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---

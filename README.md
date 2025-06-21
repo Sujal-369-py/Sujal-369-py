@@ -1,32 +1,32 @@
+<!-- ASCII Banner Section -->
 <p align="center">
-  <img src="https://i.imgur.com/8h2OsNB.png" alt="Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=Generative+AI+%7C+Deep+Learning+%7C+Machine+Learning+Explorer+%7C+DSA+Enthusiast" />
 </p>
 
 <h1 align="center">They said "code is just 1s and 0s" — I turned it into purpose. I'm Sujal.</h1>
-<h3 align="center">Passionate ML Learner | LeetCode Solver | DSA Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Machine+Learning+Explorer+🤖;Data+Structures+%26+Algorithms+🔥;" />
-</p>
+<h3 align="center">I build, break, and train logic to evolve ⚡</h3>
 
 ---
 
-- 🧠 Currently focused on: **Machine Learning & DSA**
-- 🏹 Daily Target: **Solve problems on LeetCode**
-- ⚙️ Strong grip on: **Data Structures and Algorithms**
-- 💭 Goal: **Build intelligent systems from scratch**
-- 🎯 Quote I live by: *“Code what you can’t stop thinking about.”*
+### 💡 What I Do
+
+- 🤖 Currently diving into: **Generative AI & Deep Learning**
+- 🧠 Solid grip on: **Machine Learning, Data Structures & Algorithms**
+- ⚔️ Practicing daily on: **LeetCode**
+- 🧪 Believer of: **Learning by Building from Scratch**
+- 🎯 Life Motto: *If it challenges me, it changes me.*
 
 ---
 
-### 🚀 Tech Stack
+### ⚙️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -59,5 +59,7 @@
 ### 🧠 Fun Side
 
 > *"I don’t just write code — I train machines to think and solve problems."*
+
+> *"Learning is my hobby, building is my therapy."*
 
 ---

@@ -31,13 +31,23 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal-369-py&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal-369-py&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-369-py&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Sujal_369_/">
+    <img src="https://leetcard.jacoblin.cool/Sujal_369_?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
@@ -47,4 +57,3 @@
 > *"I don’t just write code — I train machines to think and solve problems."*
 
 ---
-

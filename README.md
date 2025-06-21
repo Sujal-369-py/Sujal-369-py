@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sujal (aka buddy)</h1>
+<h1 align="center">Hi 👋, I'm Sujal</h1>
 <h3 align="center">Passionate ML Learner | LeetCode Solver | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Machine+Learning+Explorer+🤖;Data+Structures+%26+Algorithms+🔥;Solving+LeetCode+1+question+at+a+time!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Machine+Learning+Explorer+🤖;Data+Structures+%26+Algorithms+🔥;" />
 </p>
 
 ---

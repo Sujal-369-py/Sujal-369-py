@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sujal</h1>
+<p align="center">
+  <img src="https://i.imgur.com/8h2OsNB.png" alt="Banner" />
+</p>
+
+<h1 align="center">They said "code is just 1s and 0s" — I turned it into purpose. I'm Sujal.</h1>
 <h3 align="center">Passionate ML Learner | LeetCode Solver | DSA Enthusiast</h3>
 
 <p align="center">

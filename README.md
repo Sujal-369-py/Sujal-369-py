@@ -25,20 +25,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujal-369-py&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal-369-py&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-369-py&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🧠 LeetCode Stats
 
 <p align="center">
